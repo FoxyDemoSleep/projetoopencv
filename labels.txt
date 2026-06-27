@@ -1,0 +1,4 @@
+0 Caneta
+1 Livro
+2 Telemovel
+3 Vazio
