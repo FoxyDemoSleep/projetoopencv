@@ -24,8 +24,8 @@ Para garantir que o modelo `.h5` funcione corretamente (evitando erros de `group
 
 ### 1. Clonar o repositório:
 ```bash
-git clone https://github.com/rs_silva1977/keras_opencv.git
-cd keras_opencv
+git clone https://github.com/FoxyDemoSleep/projetoopencv.git
+cd projetoopencv
 ```
 
 ### 2. Criar e Ativar um Ambiente Virtual (Recomendado):
@@ -33,14 +33,14 @@ cd keras_opencv
 
 **No Windows:**
 ```bash
-python -m venv venv_ia
-.\venv_ia\Scripts\activate
+python -m venv venv_projeto
+.\venv_projeto\Scripts\activate
 ```
 
 **No Linux/macOS:**
 ```bash
 python3 -m venv venv_ia
-source venv_ia/bin/activate
+source venv_projeto/bin/activate
 ```
 
 ### 3. Instalar as dependências:
